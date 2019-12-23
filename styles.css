@@ -1,0 +1,48 @@
+html {
+    height: 100%;
+    background: linear-gradient(0deg, rgba(254,242,69,1) 0%, rgba(200,214,155,1) 50%, rgba(82,213,250,1) 100%);
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+    height: 100vh;
+  }
+
+.intro-heading {
+    margin-bottom: 80px;
+    text-align: center;
+}
+
+.todo-items{
+    padding: 15px;
+}
+
+.app{
+    max-width: 380px;
+    padding: 15px 35px 45px;
+    margin: 0 auto;
+    background-color: #fff;
+    border: 1px solid rgba(0,0,0,0.1);
+    text-align: center;
+    background: rgb(242,237,164);
+    border-radius: 30px;
+}
+
+.wrapper {	
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.form-signin-h2 {
+      margin-bottom: 30px;
+}
+
+li {
+    list-style-type: none;
+}
+
+.app-counters {
+    padding: 15px 35px 15px;
+    list-style-type: none;
+    font-weight: 700;
+}
